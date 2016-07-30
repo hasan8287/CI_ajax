@@ -1,0 +1,10 @@
+
+
+for ease of use, 
+create a folder named 'solid', extract this file in the folder 'solid'
+then create a database with the name 'db_solid', then import the database from the file 'db_solid.sql'
+
+
+untuk mempermudah menggunakan ini, 
+buat folder dengan nama  'solid', extract file ini di folder 'solid'
+kemudian buat database dengan nama 'db_solid', setelah itu import database dari file 'db_solid.sql'
